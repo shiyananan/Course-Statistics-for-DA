@@ -1,5 +1,5 @@
-#Statistics for Data Analysis#
-##an online course by HSE University##
+# Statistics for Data Analysis
+## an online course by HSE University
 
 | #  | Course Topic |
 | ------------- | ------------- |
