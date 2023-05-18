@@ -2,7 +2,7 @@
 ### an online course by HSE University
 
 | #  | Course Topic |
-| ------------- | ------------- |Cancel changes
+| ------------- | ------------- |
 | 1 | [Introduction to Statistics. Basic Data Manipulation](1_Introduction_To_Statstics.ipynb)  |
 | 2 | [Data Types. Creating New Variables]([2_Data_Types.ipynb)  |
 | 3 | [Population and Sample. Frequency Tables andFrequency Distributions](3_Population_and_Sample.ipynb) |
